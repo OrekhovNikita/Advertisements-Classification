@@ -1,11 +1,16 @@
 # Ads-Classification
 
-## Extensive data analysis, Text preprocessing, TFIDF, PCA, Tune Logistic regression
+## Extensive data analysis, Text preprocessing, TFIDF, Tune Logistic Regression
 
 ![](https://developers.google.com/machine-learning/guides/text-classification/images/TextClassificationExample.png)
 
 ## Задача
 Необходимо предсказать, есть ли в объявлении контактная информация.
+
+Есть два датасета `train.csv` и `test_data.csv`:
+Обучать модель будем на выборке `train.csv`. Качество модели оценим на тестовой выборке `test_data.csv`.
+
+Оценивать качество классификатора будем по метрике `ROC-AUC`.
 
 ### Колонки
 * `title` - заголовок,
