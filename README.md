@@ -1,6 +1,6 @@
 # Ads-Classification
 
-## Extensive data analysis, Text preprocessing, TFIDF, Tune Logistic Regression
+## Extensive EDA, Text preprocessing, TFIDF, Tune Logistic Regression
 
 ![](https://developers.google.com/machine-learning/guides/text-classification/images/TextClassificationExample.png)
 
