@@ -1,4 +1,4 @@
-# Ads-Classification
+# Advertisement Classification by the contact information available
 
 ## Extensive EDA, Text preprocessing, TFIDF, Tune Logistic Regression
 
